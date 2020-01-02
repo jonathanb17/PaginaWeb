@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background: #ccc;
+
+}
+
+nav {
+    margin-top: 20px;
+
+}
+
+ul {
+    position: relative;
+    left: 50%;
+    float: left;
+}
+
+
+li {
+    position: relative;
+    float: left;
+    right: 50%;
+    list-style: none;
+    margin-right: 20px;
+    background-color: aqua;
+    padding: 20px 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+
+    background: darkblue;
+    color: white;
+    width: 60%;
+    padding: 30px 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+
+.container {
+    margin-left: 20px;
+}
+
+.container p {
+    text-align: justify;
+}
